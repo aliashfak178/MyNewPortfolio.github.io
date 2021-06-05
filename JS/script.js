@@ -5,7 +5,7 @@ const header = document.querySelector('header');
 const TypingText = document.querySelector(".typed-text");
 const AutoTyping = document.querySelector(".TypeCursor");
 
-// Temprory comment
+// remove the some Elements
 
 function RemoveElements()
 {
